@@ -14,13 +14,6 @@ Bachelor's of Information System
 Norah bent Abdulrahman University
 
 
-
-## Awards
-
-LIST of award
-
-
-
 ## Skills
 ## Personal Skills :
 • Communication skills
@@ -42,6 +35,7 @@ And Accuracy.
 • COMPTIA A+ Technical support and maintenance |10/2021
 • Data Analytics by Power BI |10/2021
 Ministry of Communications and Information Technology
+
 • Oracle 12c Database Developer |02-04/2020
 solution makers
 
